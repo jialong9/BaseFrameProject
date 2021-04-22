@@ -1,0 +1,3 @@
+include ':frameSDK'
+include ':app'
+rootProject.name = "BaseFrameProject"
